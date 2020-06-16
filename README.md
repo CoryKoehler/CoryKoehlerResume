@@ -30,7 +30,7 @@ Proven ability to build high performance, secure, data driven applications with 
 | .Net Full Stack Development | Agile Methods and Methodologies | XP Practices | Build, Release configuration management | 
 | DevOps Architecture | Jenkins | Azure Architecture | Angular4+ |
 | Javascript | Typescript | Node | Micro Service Architecture |
-| Pub/Sub Architecture | Push/Push Architecture | Serverless Architecture | Material Design |
+| Pub/Sub Architecture | Push/Push Architecture | Serverless Architecture | GRPC |
 | Azure ARM | Automated Testing | TDD | MonogoDb |
 | Serverless Applications | Python3+ | IoT | MQTT
 
