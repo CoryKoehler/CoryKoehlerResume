@@ -16,7 +16,7 @@ Table of Contents
 
 # Cory Koehler's Resume 
 ## Contact Info
-Cory Koehler - cjiek9181@gmail - [Linkedin](https://www.linkedin.com/in/cory-koehler/) - [Github](https://github.com/CoryKoehler)
+Cory Koehler - cory@lithe.technology - [Linkedin](https://www.linkedin.com/in/cory-koehler/) - [Github](https://github.com/CoryKoehler)
 
 ---
 
@@ -40,9 +40,9 @@ Proven ability to build high performance, secure, data driven applications with 
 ## Experiences:
 
 ### Lithe Software Consulting
-8/01/2020 - Current | CEO - Grosse Pointe Woods, MI |
+8/01/2020 - Current | CEO of Lithe - Grosse Pointe Woods, MI |
 |-|-|
-| Summation | CEO of independent company that provides engineer excellence through consulting, custom implementation and/or content generation for teachers
+| Summation | Manage company that provides engineering excellence through consulting, custom implementation and/or content generation for teachers
 
 ---
 
