@@ -4,6 +4,8 @@ Table of Contents
   - [Summary](#summary)
   - [Core Technology Skills](#core-technology-skills)
   - [Experiences:](#experiences)
+    - [Lithe Software Consulting](#lithe-software-consulting)
+    - [Independent Freelancer](#independent-freelancer)
     - [Teaching](#teaching)
     - [Accenture Industry X.0](#accenture-industry-x0)
     - [Pillar (Acquired by Accenture)](#pillar-acquired-by-accenture)
@@ -35,8 +37,22 @@ Proven ability to build high performance, secure, data driven applications with 
 | Serverless Applications | Python3+ | IoT | MQTT
 
 
-
 ## Experiences:
+
+### Lithe Software Consulting
+8/01/2020 - Current | CEO - Grosse Pointe Woods, MI |
+|-|-|
+| Summation | CEO of independent company that provides engineer excellence through consulting, custom implementation and/or content generation for teachers
+
+---
+
+### Independent Freelancer
+6/26/2020 - Current | Grosse Pointe Woods, MI |
+|-|-|
+| Summation | Work on various projects and content creation for Clients |
+| Technologies | Blazor, .NetCore
+
+---
 
 ### Teaching
 | 6/01/2019 to Current | Contractor for Grand Circus - Detroit, MI |
