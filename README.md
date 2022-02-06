@@ -4,7 +4,7 @@ Table of Contents
   - [Summary](#summary)
   - [Core Technology Skills](#core-technology-skills)
   - [Experiences:](#experiences)
-    - [Lithe Software Consulting](#lithe-software-consulting)
+    - [Lithe Software Consulting Linkedin](#lithe-software-consulting-linkedin)
     - [Independent Freelancer](#independent-freelancer)
     - [Teaching](#teaching)
     - [Accenture Industry X.0](#accenture-industry-x0)
@@ -21,7 +21,8 @@ Cory Koehler - cory@lithe.technology - [Linkedin](https://www.linkedin.com/in/co
 ---
 
 ## Summary
-Proven ability to build high performance, secure, data driven applications with quality code. Skilled in Micro Service architecture and SaaS delivery. Strong understanding of development methodologies such as Agile, and its various branches. Utilizes development methodologies, object-oriented design, test driven development, and best practices to empower organizations and individuals. Known for excellent troubleshooting skills - able to analyze code and engineer well-researched cost-effective and responsive solutions. Cloud native developer with excessive Azure know how.
+As a leader Cory brings enterprise tested abilities across the entire spectrum of technology for clients. From building and managing teams and processes, long and short term product planning and engineering the product. Leveraging experience in Technology Consulting Cory is able to mesh business needs to technology solutions in a seamless manner. 
+As an engineer Cory brings a proven ability to build high performance, secure, data driven applications with quality code. Skilled in Micro Service architecture and SaaS delivery. Strong understanding of development methodologies such as Agile, and its various branches. Utilizes development methodologies, object-oriented design, test driven development, and best practices to empower organizations and individuals. Known for excellent troubleshooting skills - able to analyze code and engineer well-researched cost-effective and responsive solutions. Cloud native developer with excessive Azure know how.
 
 ## Core Technology Skills
 
@@ -39,10 +40,10 @@ Proven ability to build high performance, secure, data driven applications with 
 
 ## Experiences:
 
-### Lithe Software Consulting
-8/01/2020 - Current | CEO of Lithe - Grosse Pointe Woods, MI |
+### Lithe Software Consulting [Linkedin](https://www.linkedin.com/company/lithe-software-consulting)
+8/01/2020 - Current | President of Lithe - Grosse Pointe Woods, MI |
 |-|-|
-| Summation | Manage company that provides engineering excellence through consulting, custom implementation and/or content generation for teachers
+| Summation | Manage company that provides engineering excellence through consulting, custom implementation. Wearing many hats as needed across the full breadth of the Software Development Life Cycle including Product Management, Delivery, DevOps, QA and Engineering. Responsible for scaling team and managing team of independent contractors within Clients.
 
 ---
 
@@ -50,7 +51,7 @@ Proven ability to build high performance, secure, data driven applications with 
 6/26/2020 - Current | Grosse Pointe Woods, MI |
 |-|-|
 | Summation | Work on various projects and content creation for Clients |
-| Technologies | Blazor, .NetCore
+| Technologies | C#, Blazor, .NetCore
 
 ---
 
